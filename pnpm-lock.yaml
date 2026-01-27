@@ -320,8 +320,8 @@ importers:
   packages/turbo-codemod:
     dependencies:
       axios:
-        specifier: 1.13.3
-        version: 1.13.3
+        specifier: 1.13.4
+        version: 1.13.4
       commander:
         specifier: ^9.5.0
         version: 9.5.0
@@ -741,8 +741,8 @@ importers:
         specifier: 1.0.1
         version: 1.0.1
       tar:
-        specifier: 7.5.6
-        version: 7.5.6
+        specifier: 7.5.7
+        version: 7.5.7
       ts-jest:
         specifier: ^27.1.1
         version: 27.1.5(@babel/core@7.28.6)(@types/jest@27.5.2)(esbuild@0.24.2)(jest@27.5.1)(typescript@5.3.3)
@@ -4372,8 +4372,8 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /axios@1.13.3:
-    resolution: {integrity: sha512-ERT8kdX7DZjtUm7IitEyV7InTHAF42iJuMArIiDIV5YtPanJkgw4hw5Dyg9fh0mihdWNn1GKaeIWErfe56UQ1g==}
+  /axios@1.13.4:
+    resolution: {integrity: sha512-1wVkUaAO6WyaYtCkcYCOx12ZgpGf9Zif+qXa4n+oYzK558YryKqiL6UWwd5DqiH3VRW0GYhTZQ/vlgJrCoNQlg==}
     dependencies:
       follow-redirects: 1.15.11
       form-data: 4.0.5
@@ -11082,8 +11082,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /tar@7.5.6:
-    resolution: {integrity: sha512-xqUeu2JAIJpXyvskvU3uvQW8PAmHrtXp2KDuMJwQqW8Sqq0CaZBAQ+dKS3RBXVhU4wC5NjAdKrmh84241gO9cA==}
+  /tar@7.5.7:
+    resolution: {integrity: sha512-fov56fJiRuThVFXD6o6/Q354S7pnWMJIVlDBYijsTNx6jKSE4pvrDTs6lUnmGvNyfJwFQQwWy3owKz1ucIhveQ==}
     engines: {node: '>=18'}
     dependencies:
       '@isaacs/fs-minipass': 4.0.1
