@@ -10,7 +10,7 @@
   "devDependencies": {
     "@types/react": "^18.2.61",
     "@types/react-dom": "^18.2.19",
-    "eslint": "^9.26.0",
+    "eslint": "^9.39.2",
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
     "typescript": "^5.3.3"
