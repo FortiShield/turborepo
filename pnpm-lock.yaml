@@ -617,8 +617,8 @@ importers:
         specifier: ^11.1.0
         version: 11.1.1
       js-yaml:
-        specifier: ^5.4.1
-        version: 5.4.1
+        specifier: ^5.4.3
+        version: 5.4.3
       json5:
         specifier: ^2.2.3
         version: 2.2.3
@@ -729,8 +729,8 @@ importers:
         specifier: ^27.4.3
         version: 27.5.1(ts-node@10.9.1)
       js-yaml:
-        specifier: ^5.4.1
-        version: 5.4.1
+        specifier: ^5.4.3
+        version: 5.4.3
       json5:
         specifier: ^2.2.3
         version: 2.2.3
@@ -793,8 +793,8 @@ importers:
         specifier: ^8.0.0
         version: 8.2.4
       js-yaml:
-        specifier: ^5.4.1
-        version: 5.4.1
+        specifier: ^5.4.3
+        version: 5.4.3
       ora:
         specifier: 4.1.1
         version: 4.1.1
@@ -8826,8 +8826,8 @@ packages:
     dependencies:
       argparse: 2.0.1
 
-  /js-yaml@5.4.1:
-    resolution: {integrity: sha512-28R/k+NAjeuf7+CKlTxWZVExJGwVVLwY06DgEnOMz2gEpfNkDcD7QvyiVPT0xy0XXhU8vHsd4Ot42OOPdJG7dQ==}
+  /js-yaml@5.4.3:
+    resolution: {integrity: sha512-yzzNtgczwgoVHNigCyKTXcQJU4Y8t/ikU4UxXW0BvrLfHTGWZhsNcOT2s/a7vn81/4KqVnNmHjaUEPlvWnNwVw==}
     hasBin: true
     dependencies:
       argparse: 2.0.1
